@@ -1,0 +1,21 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Choropleth Map</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+
+<body>
+  <h1 id="title">US Education Level by County</h1>
+  <p id="description">A choropleth map depicting the percentage of adults with a college degree in the US.</p>
+  <svg id="map" width="960" height="600"></svg>
+  <div id="legend"></div>
+  <div id="tooltip" class="tooltip" style="opacity: 0;"></div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
