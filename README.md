@@ -1,3 +1,5 @@
+````markdown
+
 # Choropleth Map Visualization
 
 This README outlines how to build a choropleth map that visualizes education data across the United States using D3.js, HTML, CSS, and JavaScript. The application meets the requirements outlined by FreeCodeCamp, ensuring a functional and engaging user experience.
